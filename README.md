@@ -1,4 +1,4 @@
-# ¡Hola! Soy Rocio 👋 ✨
+# ¡Hola! Soy Rocio 👋
 
 Desarrolladora **Fullstack** apasionada por crear interfaces increíbles y soluciones escalables. Me encanta aprender nuevas tecnologías y enfrentar retos técnicos.
 
