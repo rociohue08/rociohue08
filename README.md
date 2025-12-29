@@ -22,6 +22,3 @@ Desarrolladora **Fullstack** apasionada por crear interfaces increíbles y soluc
 - 📫 Cómo contactarme:https://www.linkedin.com/in/rocio-hue%C3%B1ir/
 
 ---
-
-### 📊 Mis Estadísticas
-![Estadísticas de Rocio](https://github-readme-stats.vercel.app/api?username=rociohue08&show_icons=true&theme=radical)
