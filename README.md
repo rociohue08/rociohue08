@@ -10,7 +10,7 @@ Desarrolladora **Fullstack** apasionada por crear interfaces increíbles y soluc
 | **Mobile** | ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=white) ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?logo=ionic&logoColor=white) |
 | **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) |
 | **Lenguajes** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
-| **Gestión** | ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white) |
+| **Gestión** | ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)  |
 
 ---
 
